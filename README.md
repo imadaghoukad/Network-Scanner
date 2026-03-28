@@ -1,4 +1,4 @@
-# 🔍 Pro Network Scanner
+# 🔍 Azzy's  Network Scanner
 
 A fast, lightweight, and professional Network Scanner built with Python and Scapy. This tool allows security enthusiasts and network administrators to discover live hosts and their MAC addresses on a local network using ARP requests.
 
@@ -16,6 +16,5 @@ A fast, lightweight, and professional Network Scanner built with Python and Scap
 ## 🚀 Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Pro-Network-Scanner.git](https://github.com/YOUR_USERNAME/Pro-Network-Scanner.git)
-   cd Pro-Network-Scanner
-
+   git clone [https://github.com/imadaghoukad/Network-Scanner.git](https://github.com/imadaghoukad/Network-Scanner.git)
+   cd Network-Scanner
